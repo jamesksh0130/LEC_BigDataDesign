@@ -1,8 +1,8 @@
 # Exploratory Data Analysis 
-### - StudentID: 
-### - Name:
-### - 1st Major:
-### - 2nd Major:
+### - StudentID: 22100128
+### - Name: Kim SeungHyon
+### - 1st Major: ACE
+### - 2nd Major: DS
 <br>
 
 <i>Brief summary of your proposed project idea. </i>
